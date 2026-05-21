@@ -189,8 +189,8 @@ The disk-fill remains at 0 bytes free throughout all passes.
 ## Setup & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Aryan-dot-sketch/Zip-Bomb.git
+cd Zip-Bomb
 
 # Safe build only
 python3 main.py
