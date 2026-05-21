@@ -29,7 +29,7 @@ CORES = os.cpu_count() or 4
 # ── Build config ───────────────────────────────────────────────────────────────
 OUTPUT_DIR       = "output"
 BASE_FILENAME    = "basefile.bin"
-BASE_SIZE_MB     = 1e-14
+BASE_SIZE_MB     = 10
 COPIES_PER_LAYER = 60
 NUM_LAYERS       = 4
 MAX_REAL_FILES   = 5_000_000_000_000
